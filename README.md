@@ -1,0 +1,2 @@
+# premium-straw-bee-001-traditional-straw-skep-beehive
+Stop losing track of your skep coiling progress — every twist of straw deserves a record that keeps your ancient craft organized and reproducible.  This Notion template digitizes the traditional beekeeping art of straw skep coiling, giving you a structured place to log each coil's diameter, straw type, tension, and date. No more scattered notes or
